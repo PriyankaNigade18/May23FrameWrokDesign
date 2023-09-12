@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-11T12:02:43 IST" name="Suite" finished-at="2023-09-11T12:03:05 IST" duration-ms="21667">
+    <groups>
+    </groups>
+    <test started-at="2023-09-11T12:02:43 IST" name="Test" finished-at="2023-09-11T12:03:05 IST" duration-ms="21667">
+      <class name="com.SwagLabs.TestCase.OverviewPageTestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SwagLabs.TestCase.OverviewPageTestCase@20deea7f]" started-at="2023-09-11T12:02:43 IST" name="setUp" finished-at="2023-09-11T12:02:47 IST" duration-ms="3738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="pageSetUp()[pri:0, instance:com.SwagLabs.TestCase.OverviewPageTestCase@20deea7f]" started-at="2023-09-11T12:02:47 IST" name="pageSetUp" finished-at="2023-09-11T12:03:05 IST" duration-ms="17681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetUp -->
+        <test-method signature="verifyProductDetails()[pri:1, instance:com.SwagLabs.TestCase.OverviewPageTestCase@20deea7f]" started-at="2023-09-11T12:03:05 IST" name="verifyProductDetails" finished-at="2023-09-11T12:03:05 IST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductDetails -->
+        <test-method signature="verifyFinish()[pri:2, instance:com.SwagLabs.TestCase.OverviewPageTestCase@20deea7f]" started-at="2023-09-11T12:03:05 IST" name="verifyFinish" finished-at="2023-09-11T12:03:05 IST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFinish -->
+      </class> <!-- com.SwagLabs.TestCase.OverviewPageTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
